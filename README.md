@@ -21,8 +21,6 @@ This was repository was created for English 105 at UNC Chapel Hill. It contains 
 3. Use the provided Python notebook to clean, analyze, and visualize the data.
 4. Explore trends such as global population growth or compare population changes across countries.
 
-## Useful applications 
-
 ## **Useful Applications**
 
 This repository can be used for a variety of educational, analytical, and practical purposes, including:
