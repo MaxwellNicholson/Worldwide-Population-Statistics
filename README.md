@@ -30,6 +30,18 @@ This repository can be used for a variety of educational, analytical, and practi
 - **Visualization Projects**: Create charts, graphs, and dashboards to visualize historical and projected population changes.
 - **Learning Data Analysis**: Use the provided dataset and Python notebook as a hands-on resource to practice data cleaning, manipulation, and visualization techniques.
 
+## **Data Visualization**
+
+Here are a few examples of how this data set can be used to create informative visualizations about the worlds population
+
+### World Population Overtime
+
+![image](Data/World_Population_Overtime.png)
+
+### Top 10 Fastest Growing Countries of 2022
+
+![image](Data/Top_Ten_Fastest_Growing_Countries.png)
+
 ## **License**
 
 You are free to use, modify, and distribute the contents of this repository, provided you include appropriate attribution.
